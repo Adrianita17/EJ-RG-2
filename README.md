@@ -17,7 +17,7 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 ```python
 print("Sistema de tienda virtual iniciado...")
 ```
-# Enlace
-[Mi perfil de GitHub](https://github.com/alejandraquinones027)
-# Logo
+## Enlace
+[Mi perfil de GitHub](https://github.com/Adrianita17/)
+## Logo
 <img src="https://github.com/alejandraquinones027/EJ-RG-1/raw/main/Logo.png" alt="Logo ComixStore" width="250">
