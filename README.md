@@ -4,4 +4,13 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 ## Instalación y ejecución
 1. Clonar repositorio: git clone https://github.com/Adrianita17/EJ-RG-2/
 2. Entrar a La Carpeta del Proyecto cd EJ-RG-2
-3. Seguir las instrucciones del docente para ejecutar o docimentar los módulos (usuario, productos, drops).
+3. Seguir las instrucciones del docente para ejecutar o documentar los módulos (usuario, productos, drops).
+- **Tipo de tienda**: Virtual por Whatsapp sin catálogo público.
+- Generación de cards y con  sello "Agotado".
+- Gestión de inventarios y roles(administado, vendedor, cliente).
+- Inventarios con variantes(modelo-talla-color) y SKU único(sin stock negativo).
+- Registro de pedidos desde el chat de WhatsApp con reserva de 30 min.
+- Pagos, envíos, devoluciones, y reportes diarios/kardex.
+  
+```python
+print(Sistema de tienda virtual iniciado...)
