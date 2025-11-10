@@ -7,7 +7,7 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 3. Seguir las instrucciones del docente para ejecutar o documentar los módulos (usuario, productos, drops).
 ## Características del Proyecto 
 - **Tipo de tienda**: Virtual por Whatsapp sin catálogo público.
-- Generación de cards y con  sello "Agotado".
+- Generación de cards y con  sello **"AGOTADO"**.
 - Gestión de inventarios y roles(administado, vendedor, cliente).
 - Inventarios con variantes(modelo-talla-color) y SKU único(sin stock negativo).
 - Registro de pedidos desde el chat de WhatsApp con reserva de 30 min.
