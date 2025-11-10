@@ -5,6 +5,7 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 1. Clonar repositorio: git clone https://github.com/Adrianita17/EJ-RG-2/
 2. Entrar a La Carpeta del Proyecto cd EJ-RG-2
 3. Seguir las instrucciones del docente para ejecutar o documentar los módulos (usuario, productos, drops).
+## Características del Proyecto 
 - **Tipo de tienda**: Virtual por Whatsapp sin catálogo público.
 - Generación de cards y con  sello "Agotado".
 - Gestión de inventarios y roles(administado, vendedor, cliente).
@@ -12,7 +13,11 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 - Registro de pedidos desde el chat de WhatsApp con reserva de 30 min.
 - Pagos, envíos, devoluciones, y reportes diarios/kardex.
   
-```python print("Sistema de tienda virtual iniciado...")```
-** [Adriana Lucia meza Veira]**(https://github.com/Adrianita17)
-
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+ ## Fragmento de Código
+```python
+print("Sistema de tienda virtual iniciado...")
+```
+# Enlace
+[Mi perfil de GitHub](https://github.com/alejandraquinones027)
+# Logo
+<img src="https://github.com/alejandraquinones027/EJ-RG-1/raw/main/Logo.png" alt="Logo ComixStore" width="250">
