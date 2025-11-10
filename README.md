@@ -12,7 +12,7 @@ El sistema permite generar cards listas para publicar con foto,SKU, talla, color
 - Registro de pedidos desde el chat de WhatsApp con reserva de 30 min.
 - Pagos, envíos, devoluciones, y reportes diarios/kardex.
   
-```python print(Sistema de tienda virtual iniciado...)```
+```python print("Sistema de tienda virtual iniciado...")```
 ** [Adriana Lucia meza Veira]**(https://github.com/Adrianita17)
 
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
