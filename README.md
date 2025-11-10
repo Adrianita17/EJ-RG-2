@@ -20,4 +20,4 @@ print("Sistema de tienda virtual iniciado...")
 ## Enlace
 [Mi perfil de GitHub](https://github.com/Adrianita17/)
 ## Logo
-<img src="https://github.com/alejandraquinones027/EJ-RG-1/raw/main/Logo.png" alt="Logo ComixStore" width="250">
+<img src="https://github.com/Adrianita17/EJ-RG-2/edit/main/README.md/raw/main/Logo.png" alt="Logo ComixStore" width="300">
